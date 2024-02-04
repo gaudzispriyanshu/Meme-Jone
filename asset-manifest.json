@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Meme-Jone/static/css/main.96a0f344.css",
+    "main.js": "/Meme-Jone/static/js/main.ad7691a9.js",
+    "index.html": "/Meme-Jone/index.html",
+    "main.96a0f344.css.map": "/Meme-Jone/static/css/main.96a0f344.css.map",
+    "main.ad7691a9.js.map": "/Meme-Jone/static/js/main.ad7691a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96a0f344.css",
+    "static/js/main.ad7691a9.js"
+  ]
+}
